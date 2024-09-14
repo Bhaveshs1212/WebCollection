@@ -88,7 +88,7 @@ export const bookmark_list = [
       },
       {
         name: "Leetcode",
-        link: "https://leetcode.com/u/LRp25ihLv8/",
+        link: "https://leetcode.com/u/bhaveshs1212/",
         logo: "https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png",
       },
       {
