@@ -220,37 +220,7 @@ export const bookmark_list = [
         link: "https://app.100xdevs.com/",
         logo: "https://media.licdn.com/dms/image/D4D0BAQGAx7aNVSaMfg/company-logo_200_200/0/1716230100058/100xdevs_logo?e=2147483647&v=beta&t=sZtlEr4bOPOoeHgfsxJaRU3VsIgsMfgkDZY0mGCpWW0",
       },
-      {
-        name: "Frontend Mentor",
-        link: "https://www.frontendmentor.io/",
-        logo: "https://www.frontendmentor.io/static/images/logo-desktop.svg",
-      },
-      {
-        name: "Codecademy",
-        link: "https://www.codecademy.com/",
-        logo: "https://www.codecademy.com/resources/brand/Codecademy_Logo_White.png",
-      },
-      {
-        name: "W3Schools",
-        link: "https://www.w3schools.com/",
-        logo: "https://www.w3schools.com/lib/w3schools_footer.png",
-      },
-      {
-        name: "MDN Web Docs",
-        link: "https://developer.mozilla.org/en-US/",
-        logo: "https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png",
-      },
-      {
-        name: "FreeCodeCamp",
-        link: "https://www.freecodecamp.org/",
-        logo: "https://cdn.freecodecamp.org/platform/universal/fcc_primary_small.jpg",
-      },
-      {
-        name: "Stack Overflow",
-        link: "https://stackoverflow.com/",
-        logo: "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
-      },
-    ],
+     ],
   },
   // NITJ
   {
