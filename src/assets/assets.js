@@ -87,6 +87,11 @@ export const bookmark_list = [
         logo: "https://yt3.googleusercontent.com/ytc/AIdro_mdPFTT7VuJHQkvzW9gjJxvSV3bBDpEVNw8dWOmHjTT5g=s900-c-k-c0x00ffffff-no-rj",
       },
       {
+        name: "Codolio",
+        link: "https://codolio.com/profile/Bhaveshs1212",
+        logo: "https://in.images.search.yahoo.com/search/images;_ylt=Awr1TeQDcR5nCgIACX27HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=codolio+logo&fr2=piv-web&type=E210IN826G0&fr=mcafee#id=0&iurl=https%3A%2F%2Fcodolio.com%2Fcodolio_assets%2Fgif-owl-transparent.GIF&action=click",
+      },
+      {
         name: "Leetcode",
         link: "https://leetcode.com/u/LRp25ihLv8/",
         logo: "https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png",
